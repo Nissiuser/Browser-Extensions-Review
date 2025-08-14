@@ -1,6 +1,6 @@
 Overview
 --------------
-This repository contains a PDF report on a browser extension security review, prepared by Nissi Dasari on August 14, 2025. The review examined installed extensions from a provided screenshot, researched their safety, and confirmed no malicious extensions were present. Both extensions (Glider Proctoring and Loom) were disabled as a precautionary measure.
+This repository contains a PDF report on a browser extension security review, prepared by Nissi Dasari on August 14, 2025. The review examined installed extensions, researched their safety, and confirmed no malicious extensions were present. Both extensions (Glider Proctoring and Loom) were disabled as a precautionary measure.
 The report includes:
 --------------
 Executive summary
